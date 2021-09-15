@@ -1,3 +1,5 @@
+#NoEnv
+#NoTrayIcon
 
 Pause::
 Send {Media_Play_Pause}
